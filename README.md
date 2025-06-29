@@ -45,7 +45,7 @@ Para executar este projeto, você precisará ter o **Apache NetBeans IDE** e um 
 
 1.  Clone este repositório para a sua máquina local.
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/SamuelUenoUTFPR/Projeto-POO-Sistema-de-Concessionaria-de-Motos/tree/main
     ```
 2.  Abra o NetBeans e vá em `File > Open Project...`.
 3.  Navegue até a pasta do projeto clonado e clique em `Open Project`.
@@ -57,16 +57,21 @@ Para executar este projeto, você precisará ter o **Apache NetBeans IDE** e um 
 *Adicione aqui screenshots da sua aplicação para ilustrar as funcionalidades. Isso valoriza muito o seu README!*
 
 **Tela Principal (Dashboard)**
-![Tela Principal](caminho/para/sua/imagem_principal.png)
+![Captura de tela 2025-06-28 215810](https://github.com/user-attachments/assets/9b627877-4abc-4959-a404-db308db065e6)
 
 **Formulário de Cadastro**
-![Tela de Cadastro](caminho/para/sua/imagem_cadastro.png)
+![Captura de tela 2025-06-28 215838](https://github.com/user-attachments/assets/9a9e875f-f48b-4d0c-8a12-dc61c19b1b28)
+![Captura de tela 2025-06-28 215857](https://github.com/user-attachments/assets/23e7e00e-821f-4e55-9be1-5849d9e8a187)
+
 
 **Relatório em Tabela (JTable)**
-![Relatório em Tabela](caminho/para/sua/imagem_relatorio_tabela.png)
+![Captura de tela 2025-06-28 215915](https://github.com/user-attachments/assets/4cc74823-11aa-4185-a33c-a2045f6897bd)
+
 
 **Formulário de Gestão (CRUD)**
-![Tela de Gestão](caminho/para/sua/imagem_gestao.png)
+![Captura de tela 2025-06-28 215938](https://github.com/user-attachments/assets/92cdf1d5-6cd0-45c0-9b43-d0953755ad77)
+![Captura de tela 2025-06-28 220029](https://github.com/user-attachments/assets/af811848-ead4-4759-88de-878386a721c6)
+
 
 ## Autor
 
