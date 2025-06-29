@@ -57,19 +57,25 @@ Para executar este projeto, você precisará ter o **Apache NetBeans IDE** e um 
 *Adicione aqui screenshots da sua aplicação para ilustrar as funcionalidades. Isso valoriza muito o seu README!*
 
 **Tela Principal (Dashboard)**
+
 ![Captura de tela 2025-06-28 215810](https://github.com/user-attachments/assets/9b627877-4abc-4959-a404-db308db065e6)
 
 **Formulário de Cadastro**
+
 ![Captura de tela 2025-06-28 215838](https://github.com/user-attachments/assets/9a9e875f-f48b-4d0c-8a12-dc61c19b1b28)
+
 ![Captura de tela 2025-06-28 215857](https://github.com/user-attachments/assets/23e7e00e-821f-4e55-9be1-5849d9e8a187)
 
 
 **Relatório em Tabela (JTable)**
+
 ![Captura de tela 2025-06-28 215915](https://github.com/user-attachments/assets/4cc74823-11aa-4185-a33c-a2045f6897bd)
 
 
 **Formulário de Gestão (CRUD)**
+
 ![Captura de tela 2025-06-28 215938](https://github.com/user-attachments/assets/92cdf1d5-6cd0-45c0-9b43-d0953755ad77)
+
 ![Captura de tela 2025-06-28 220029](https://github.com/user-attachments/assets/af811848-ead4-4759-88de-878386a721c6)
 
 
